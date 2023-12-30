@@ -101,7 +101,7 @@ body{
 /* home section start */
 .home{
     margin-top: 30px;
-    background: url('/images/home-img.jpeg');
+    background: url('./home-img.jpeg');
     background-size:cover;
     flex: 0 0 100%;
     padding-bottom: 100px;
